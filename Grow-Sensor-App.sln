@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Grow-Sensor-App", "Grow-Sensor-App\Grow-Sensor-App.jsproj", "{B820D656-8BCB-49AB-9253-DB7D6B535151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Android.ActiveCfg = Debug|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Android.Build.0 = Debug|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Android.Deploy.0 = Debug|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|iOS.ActiveCfg = Debug|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|iOS.Build.0 = Debug|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|iOS.Deploy.0 = Debug|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Android.ActiveCfg = Release|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Android.Build.0 = Release|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Android.Deploy.0 = Release|Android
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|iOS.ActiveCfg = Release|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|iOS.Build.0 = Release|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|iOS.Deploy.0 = Release|iOS
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{B820D656-8BCB-49AB-9253-DB7D6B535151}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82889560-3E0E-4EDE-9059-FB03255284D1}
+	EndGlobalSection
+EndGlobal
