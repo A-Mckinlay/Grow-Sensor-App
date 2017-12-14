@@ -26,11 +26,10 @@
         <div role="main" class="ui-content">
             <form>
                 <label for="device-selection">Select your device</label>
-                <ul data-role="listview" data-inset="true">
-                    <li><a href="#">Dev 1</a></li>
-                    <li><a href="#">Dev 2</a></li>
-                    <li><a href="#">Dev 3</a></li>
-                </ul>
+                <span id="output" data-role="listview" data-inset="true"></span>
+                <span id="services"></span>
+                <span id="devices"></span>
+                <button id="start-scan">Start Scan</button>
             </form>
 
             <div id="error-msg" class="not-displayed">
@@ -45,7 +44,7 @@
     </div>
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="scripts/platformOverrides.js"></script>
-    <script type="text/javascript" src="scripts/index.js"></script>
+    <script type="text/javascript" src="scripts/bluetooth.js"></script>
     <script src="scripts/jquery-2.2.3.min.js"></script>
     <script src="scripts/jquery.mobile-1.4.5.min.js"></script>
     <script src="scripts/ble-connect.js"></script>
