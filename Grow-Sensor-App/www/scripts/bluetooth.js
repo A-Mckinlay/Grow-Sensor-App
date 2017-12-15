@@ -330,4 +330,4 @@ function makeUL(array) {
 }
 
 var btn = document.querySelector('start-scan');
-btn.onclick = startScan();
+btn.onclick(startScan());

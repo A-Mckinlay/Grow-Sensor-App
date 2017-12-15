@@ -104,4 +104,6 @@
     <splash src="res/screens/windows/SplashScreenPhone.scale-240.png" width="1152" height="1920" />
   </platform>
   <plugin name="cordova-plugin-bluetoothle" spec="~4.4.3" />
+  <preference name="android-targetSdkVersion" value="19" />
+  <preference name="android-minSdkVersion" value="18" />
 </widget>
